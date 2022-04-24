@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Reactjs, Nodejs, Javascript (I love React)**
 
-- 📫 How to reach me **andyade23@gmail.com**
+- 📫 How to reach me: **andyade23@gmail.com**
 
-- ⚡ Fun fact **If I was not a developer, I think I'd be a footballer**
+- ⚡ Fun fact: **If I was not a developer, I think I'd be a footballer**
 <br/><br/>
 <h3 align="left">Connect with me: <a href="https://linkedin.com/in/posi-adeyemi-332b89188/" target="blank">LinkedIn</a> </h3>
 <br>
