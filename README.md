@@ -1,9 +1,9 @@
 <h1 align="center">Hello rockstars 👋, I'm Posi</h1>
-<h3 align="center">I am a Software/Web developer who is passionate about the ever-growing field of tech, and I am always learning new technologies and collaborating on projects. Gaining knowledge never dies</h3>
+<h3 align="center">I am a Software/Web developer who is passionate about the ever-growing field of tech, and I am always learning new technologies and collaborating on projects.</h3>
 
-- 🔭 I’m currently working on **Spring Boot and Django Framework**
+- 🔭 I’m currently working on **a personal business project**
 
-- 🌱 I’m currently learning **Data Science, Artificial Intelligence, Machine Learning and Mobile App Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 👯 I’m looking to collaborate on **almost anything**
 
