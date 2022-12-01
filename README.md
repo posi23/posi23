@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **If I was not a developer, I think I'd be a footballer**
 <br/><br/>
-<h3 align="left">Connect with me: <a href="https://linkedin.com/in/posi-adeyemi-332b89188/" target="blank">LinkedIn</a> </h3>
+<h3 align="left">Connect with me: <a href="https://linkedin.com/in/posi-adeyemi/" target="blank">LinkedIn</a> </h3>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
